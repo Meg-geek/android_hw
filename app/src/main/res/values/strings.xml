@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_activity_single_news">SingleNewsActivity</string>
+    <string name="default_text"> </string>
+</resources>
